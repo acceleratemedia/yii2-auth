@@ -5,6 +5,11 @@ namespace bvb\auth\console;
 use Yii;
 use yii\base\BootstrapInterface;
 
+/**
+ * @deprecated To avoid further configuration, users are encouraged to use
+ * the CLI commands in the readme to apply the migrations rather than use
+ * the command created by this bootstrap
+ */
 class Bootstrap implements BootstrapInterface
 {
     /**
