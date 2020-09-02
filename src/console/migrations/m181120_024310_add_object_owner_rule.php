@@ -1,5 +1,8 @@
 <?php
 
+namespace bvb\auth\console\migrations;
+
+use Yii;
 use bvb\auth\ObjectOwnerRule;
 use yii\db\Migration;
 
