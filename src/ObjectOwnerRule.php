@@ -5,12 +5,12 @@ namespace bvb\auth;
 class ObjectOwnerRule extends \yii\rbac\Rule
 {
     /**
-     * @const string
+     * @var string
      */
     const RULE_NAME = 'isObjectOwner';
 
     /**
-     * @inheritdoc
+     * {@inheritdoc}
      */
     public $name = self::RULE_NAME;
 
