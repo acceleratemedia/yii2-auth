@@ -1,5 +1,5 @@
 {
-    "name": "brianvb/yii2-auth",
+    "name": "acceleratemedia/yii2-auth",
     "description": "Common rules related to RBAC auth",
     "type": "yii2-extension",
     "require": {
